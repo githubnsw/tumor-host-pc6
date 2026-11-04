@@ -1,5 +1,7 @@
 # tumor-host-pc6 — Tumor metabolic program (PC6) × host skeletal muscle in TCGA and CPTAC-3
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23940241.svg)](https://doi.org/10.5281/zenodo.23940241)
+
 Code, derived data and the trained autoencoder for the manuscript *"[title]"* (Scientific Reports, revision 1; authors listed in the manuscript).
 Discovery cohort: TCGA (n = 495, eight cancer types); external cohort: CPTAC-3 (n = 179; kidney, pancreas, uterus).
 
@@ -42,4 +44,4 @@ of CPTAC TPM onto the TCGA reference distribution, then the frozen scaler/encode
 ## Citation and license
 
 Please cite the manuscript (reference to be added on publication). Code: MIT (`LICENSE`); derived data: CC BY 4.0 (`DATA_LICENSE.md`).
-Archived at Zenodo: DOI to be added.
+Archived at Zenodo: https://doi.org/10.5281/zenodo.23940241 (release v1.0.0).
