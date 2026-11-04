@@ -1,0 +1,7 @@
+analysis,n_sig,n_up,n_down,median_logFC_sig,n_fdr05_any
+cohortwide_unadjusted,1032,425,607,-0.575021241039173,2238
+cohortwide_adj_cancer_type,671,162,509,-0.582187749308415,2116
+withintype_unadjusted,988,47,941,-0.659065117992478,2811
+withintype_adj_cancer_type,1285,134,1151,-0.630098673309162,4778
+adj-model DEGs with the same logFC sign in every tested cancer type,975,62,913,,
+"DEG in >= 2 cancer types separately, concordant direction",210,2,208,,

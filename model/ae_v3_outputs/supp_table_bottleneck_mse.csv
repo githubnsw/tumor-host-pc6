@@ -1,0 +1,5 @@
+Bottleneck Dimension,Val MSE,Test MSE,Marginal Gain vs Previous
+32,0.365348,0.365062,-
+64,0.359093,0.361302,1.0%
+128,0.360187,0.357574,1.0%
+256,0.364991,0.364795,-2.0%

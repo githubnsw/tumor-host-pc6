@@ -1,0 +1,11 @@
+cohort,pathway,r,p,n,q,sig
+TCGA,Glycolysis,0.481,0.0,495,0.0,***
+TCGA,Hypoxia,0.378,0.0,495,0.0,***
+TCGA,Lactate/MCT,0.4,0.0,495,0.0,***
+TCGA,OXPHOS,-0.062,0.1684,495,0.1684,ns
+TCGA,Proliferation,-0.078,0.0839,495,0.1049,ns
+CPTAC-3,Glycolysis,0.635,0.0,179,0.0,***
+CPTAC-3,Hypoxia,0.509,0.0,179,0.0,***
+CPTAC-3,Lactate/MCT,0.544,0.0,179,0.0,***
+CPTAC-3,OXPHOS,0.263,0.0004,179,0.0005,***
+CPTAC-3,Proliferation,-0.041,0.583,179,0.583,ns

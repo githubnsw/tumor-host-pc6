@@ -1,0 +1,43 @@
+signature,gene
+Glycolysis,HK2
+Glycolysis,PKM
+Glycolysis,ALDOA
+Glycolysis,LDHA
+Glycolysis,GAPDH
+Glycolysis,ENO1
+Hypoxia,CA9
+Hypoxia,NDRG1
+Hypoxia,VEGFA
+Hypoxia,HIF1A
+Hypoxia,ADM
+Lactate/MCT,LDHB
+Lactate/MCT,SLC16A3
+Lactate/MCT,SLC16A1
+CD8 T cell,CD8A
+CD8 T cell,CD8B
+CD8 T cell,GZMA
+CD8 T cell,GZMB
+CD8 T cell,PRF1
+T cell Exhaustion,HAVCR2
+T cell Exhaustion,PDCD1
+T cell Exhaustion,LAG3
+T cell Exhaustion,TOX
+Treg,FOXP3
+Treg,IL2RA
+Treg,IKZF2
+M2 Macrophage,MSR1
+M2 Macrophage,CD163
+M2 Macrophage,MRC1
+IFN-gamma Response,STAT1
+IFN-gamma Response,IRF1
+IFN-gamma Response,CXCL9
+IFN-gamma Response,CXCL10
+IFN-gamma Response,IDO1
+Cachexia Signal,MSTN
+Cachexia Signal,FBXO32
+Cachexia Signal,IL6
+Cachexia Signal,ACVR2B
+TGF-beta,TGFB1
+TGF-beta,TGFB2
+TGF-beta,SMAD2
+TGF-beta,SMAD3

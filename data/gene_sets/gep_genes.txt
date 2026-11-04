@@ -1,0 +1,22 @@
+# T-cell-inflamed GEP (Ayers et al., JCI 2017). The 18 genes below were specified; because of a formatting error in the
+# scoring script (gep.R: whitespace in " PSMB10" and a line break in "TIGIT\n"), PSMB10 and TIGIT did not match and the
+# score actually used in the paper is the mean of the per-gene z-scores of the remaining 16 genes (as stated in the Methods).
+CCL5
+CD27
+CD274
+CD276
+CD8A
+CMKLR1
+CXCL9
+CXCR6
+HLA-DQA1
+HLA-DRB1
+HLA-E
+IDO1
+LAG3
+NKG7
+PDCD1LG2
+STAT1
+# not matched / not used:
+# PSMB10
+# TIGIT

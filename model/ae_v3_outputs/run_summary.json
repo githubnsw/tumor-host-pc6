@@ -1,0 +1,12 @@
+{
+  "train_recon_r2": 0.8047399172116156,
+  "val_recon_r2": 0.6532116806073726,
+  "test_recon_r2": 0.6588223689939148,
+  "train_silhouette": -0.01348636019974947,
+  "val_silhouette": -0.014332291670143604,
+  "test_silhouette": -0.028189003467559814,
+  "n_selected_genes": 3000,
+  "best_epoch": 107,
+  "patience": 15,
+  "total_epochs_run": 122
+}

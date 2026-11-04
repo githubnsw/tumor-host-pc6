@@ -1,0 +1,2 @@
+R 4.1.3 (limma from Bioconductor for the cancer-type-adjusted differential expression; MCPcounter, data.table for gep.R).
+ESTIMATE (tumour purity sensitivity analysis) was run in R with the `estimate` package.

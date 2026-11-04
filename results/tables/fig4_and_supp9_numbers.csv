@@ -1,0 +1,38 @@
+﻿panel,item,value,cohort
+4A,pooled log-rank p,5.666383378950199e-07,
+4A,stratified log-rank p,6.860274748421851e-07,
+4A,stratified chi2,31.44208021362546,
+4B,stratified log-rank p,6.860274748421851e-07,TCGA
+4B,n/events/ref,489/188/115,TCGA
+4B,PC6-Low / SMA-Low vs ref,1.73 (1.09-2.73) p=0.019,TCGA
+4B,PC6-High / SMA-High vs ref,1.01 (0.59-1.74) p=0.968,TCGA
+4B,PC6-High / SMA-Low vs ref,2.31 (1.41-3.76) p<0.001,TCGA
+4B,stratified log-rank p,0.0012459785650359287,CPTAC-3
+4B,n/events/ref,178/72/45,CPTAC-3
+4B,PC6-Low / SMA-Low vs ref,1.85 (0.91-3.75) p=0.089,CPTAC-3
+4B,PC6-High / SMA-High vs ref,2.31 (0.98-5.43) p=0.055,CPTAC-3
+4B,PC6-High / SMA-Low vs ref,3.83 (1.70-8.61) p=0.001,CPTAC-3
+4C,Glycolysis KW p / F p,1.6e-10 / 2.5e-15,
+4C,Hypoxia KW p / F p,8.7e-09 / 2.3e-12,
+4C,Lactate/MCT KW p / F p,1.4e-06 / 5.9e-08,
+4C,CD8 T cell KW p / F p,0.78 / 0.74,
+4C,T cell Exhaustion KW p / F p,0.47 / 0.43,
+4C,Treg KW p / F p,0.002 / 0.00016,
+4C,M2 Macrophage KW p / F p,0.0016 / 7.2e-05,
+4C,IFN-γ Response KW p / F p,0.7 / 0.7,
+4C,Cachexia Signal KW p / F p,0.12 / 0.022,
+4C,TGF-β KW p / F p,0.13 / 0.28,
+4D,DEG total/up/down,671/162/509,
+S-A,LDHA KW p / F p,4.3e-07 / 1.9e-09,
+S-A,SLC16A3 KW p / F p,3.3e-09 / 2.8e-11,
+S-A,HAVCR2 KW p / F p,0.66 / 0.5,
+S-A,FOXP3 KW p / F p,0.016 / 0.0018,
+S-A,MSTN KW p / F p,0.058 / 0.065,
+S-B,BLCA log-rank p,0.38375614682706555,TCGA
+S-B,KIRC log-rank p,3.759511545584252e-05,TCGA
+S-B,LIHC log-rank p,0.025647630116045168,TCGA
+S-B,STAD log-rank p,0.10508666669891065,TCGA
+S-B,UCEC log-rank p,0.20890979565140672,TCGA
+S-B,Pancreas log-rank p,0.0003690737544785528,CPTAC-3
+S-B,"Uterus, NOS log-rank p",8.840458195511413e-05,CPTAC-3
+S-D,adjusted DEGs also pooled-limma DEGs,252,

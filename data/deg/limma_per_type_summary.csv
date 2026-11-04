@@ -1,0 +1,6 @@
+cancer_type,n_worst,n_other,n_sig,n_up,n_down
+BLCA,24,81,611,66,545
+KIRC,46,125,733,147,586
+LIHC,22,50,897,288,609
+STAD,10,33,0,0,0
+UCEC,18,40,0,0,0

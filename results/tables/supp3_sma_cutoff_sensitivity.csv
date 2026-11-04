@@ -1,0 +1,10 @@
+SMA_Cutoff,Comparison,N_subgroup,HR,HR_low,HR_high,p_value,Significant,Log_rank_p
+Tertile (lowest 33%),IH_SL vs IH_SH,74,1.844,1.177,2.889,0.0075,True,0.0
+Tertile (lowest 33%),IL_SH vs IH_SH,157,1.058,0.684,1.637,0.8003,False,0.0
+Tertile (lowest 33%),IL_SL vs IH_SH,90,1.571,1.002,2.465,0.049,True,0.0
+Median split (lowest 50%),IH_SL vs IH_SH,121,2.486,1.578,3.916,0.0001,True,0.0
+Median split (lowest 50%),IL_SH vs IH_SH,122,1.215,0.717,2.059,0.4682,False,0.0
+Median split (lowest 50%),IL_SL vs IH_SH,125,2.106,1.306,3.396,0.0022,True,0.0
+Quartile (lowest 25%),IH_SL vs IH_SH,54,1.822,1.146,2.897,0.0112,True,0.0006
+Quartile (lowest 25%),IL_SH vs IH_SH,178,1.193,0.806,1.765,0.3787,False,0.0006
+Quartile (lowest 25%),IL_SL vs IH_SH,69,1.188,0.725,1.945,0.4946,False,0.0006

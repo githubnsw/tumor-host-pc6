@@ -1,0 +1,17 @@
+spec,group,n,events,hr,lo,hi,p,covariates,note,panel
+unified,BLCA,105,51,1.2742939129948365,0.9152335794419636,1.7742191864133425,0.15116601261393672,SMA_zscore+age+sex_bin+stage_bin,,A_full
+unified,COAD,20,4,,,,,,not estimable (<5 events),A_full
+unified,KIRC,171,63,1.1102070390028467,0.7026537260533622,1.7541494818144079,0.6541920546005551,SMA_zscore+age+sex_bin+stage_bin,,A_full
+unified,KIRP,22,3,,,,,,not estimable (<5 events),A_full
+unified,LIHC,70,33,3.111560650392473,1.8674377009911745,5.1845422612663565,1.3149738156580567e-05,SMA_zscore+age+sex_bin+stage_bin,,A_full
+unified,READ,2,0,,,,,,not estimable (<5 events),A_full
+unified,STAD,41,21,0.8317540816449196,0.3055822236813592,2.263923745297312,0.7184087238838224,SMA_zscore+age+sex_bin+stage_bin,,A_full
+unified,UCEC,58,13,0.9918246821263926,0.5468271392275065,1.7989527759445134,0.9784422958227759,SMA_zscore+age+stage_bin,,A_full
+unified,Pooled,489,188,1.3330971210525242,1.097650730731493,1.6190468282877257,0.0037356465794982775,SMA_zscore+age+sex_bin+stage_bin,stratified by cancer type,A_full
+unified,BLCA,105,51,1.2742939129948365,0.9152335794419636,1.7742191864133425,0.15116601261393672,SMA_zscore+age+sex_bin+stage_bin,,B_excl_KIRC_READ
+unified,COAD,20,4,,,,,,not estimable (<5 events),B_excl_KIRC_READ
+unified,KIRP,22,3,,,,,,not estimable (<5 events),B_excl_KIRC_READ
+unified,LIHC,70,33,3.111560650392473,1.8674377009911745,5.1845422612663565,1.3149738156580567e-05,SMA_zscore+age+sex_bin+stage_bin,,B_excl_KIRC_READ
+unified,STAD,41,21,0.8317540816449196,0.3055822236813592,2.263923745297312,0.7184087238838224,SMA_zscore+age+sex_bin+stage_bin,,B_excl_KIRC_READ
+unified,UCEC,58,13,0.9918246821263926,0.5468271392275065,1.7989527759445134,0.9784422958227759,SMA_zscore+age+stage_bin,,B_excl_KIRC_READ
+unified,Pooled,316,125,1.4258880100016684,1.1426110735282493,1.7793951626850317,0.0016909944196142137,SMA_zscore+age+sex_bin+stage_bin,stratified by cancer type,B_excl_KIRC_READ
